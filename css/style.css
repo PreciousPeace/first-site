@@ -1,0 +1,64 @@
+body{
+margin: 0;
+}
+
+.header{
+	background-color: #BBE8E5;
+	 }
+
+.welcome{
+	text-align: center;
+}
+
+#logo{
+	width: 30%;
+	display:inline-block;
+}
+
+#peace img{ 
+width:50%;
+}
+.Vision{
+	display: inline-block;
+	width: 40%;
+	height: 100px;
+	text-align: center;
+	vertical-align: top;
+}
+.Mission{
+	display: inline-block;
+	width: 50%;
+	height:400px;
+	text-align: center;
+	vertical-align: top;
+}
+
+.imgs {
+	width: 30%;
+	display: inline-block;
+}
+
+.imgs img {
+	width: 90%;
+}
+.gossip{
+	width: 65%;
+	display:inline-block;
+	vertical-align: top;
+}
+
+#Navigation{
+	width: 70%;
+	
+	display: inline-block;
+	vertical-align: top;
+    padding-top: 3em;
+    
+
+}
+
+.footer{
+	background-color: #1da1f2; 
+}
+
+ 
